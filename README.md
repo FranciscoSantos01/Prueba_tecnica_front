@@ -61,11 +61,6 @@ Envía el enlace del repositorio del proyecto y despliega la aplicación en **Ve
    - Proporciona el enlace al repositorio del proyecto.
    - Incluye el enlace a la versión desplegada de la aplicación.
 
-## Consideraciones Adicionales
-
-- **Calidad del Código**: Mantén tu código limpio y bien documentado.
-- **Diseño Responsivo**: Asegúrate de que la aplicación sea responsive y funcione bien en diferentes dispositivos.
-- **Pruebas**: Implementa pruebas básicas para componentes clave y funcionalidad crítica.
 
 Si tienes alguna pregunta o necesitas aclaraciones adicionales, no dudes en ponerte en contacto. ¡Buena suerte!
 
