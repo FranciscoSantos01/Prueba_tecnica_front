@@ -13,7 +13,7 @@ function Favorites(){
          <Navbar/>
           <section className="p-3">
             {user !== null && <h2 className="text-green-500 font-bold text-xl">Hi {user?.username}!</h2> }
-            {favorites?.length === 0 && <h3 className="text-2xl font-bold">Add Your favorites characters or locations</h3>}
+            {favorites?.length === 0 && <h3 className="text-2xl font-bold">Add Your favorite characters or locations</h3>}
              <div className="card-container w-full h-full">
             {favorites.length > 0 && favorites.map(fav=>{
               if('status' in fav){
